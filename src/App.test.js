@@ -3,6 +3,6 @@ import App from './App';
 
 test('renders learn react link', () => {
   render(<App />);
-  const linkElement = screen.getByText(/learn react/i);
+  const linkElement = screen.getByText(/React For ERPPlus(Claudio様向け)/i);
   expect(linkElement).toBeInTheDocument();
 });
