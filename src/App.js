@@ -15,8 +15,9 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          React For ERPPlus(Claudio様向け)
+          learn react
         </a>
+        React For ERPPlus(Claudio様向け)
       </header>
     </div>
   );
